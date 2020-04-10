@@ -1,9 +1,6 @@
 <h3>contains packages</h3> 
 <ul>
-    <li>npm init</li>
-    <li>npm i -D webpack webpack-cli</li>
-    <li>create config webpack.config.js</li>
-    <li>create entry in config and:</li>
+    <li>webpack, webpack-cli</li>
     <li>html-webpack-plugin</li>
     <li>clean-webpack-plugin</li>
     <li>style-loader css-loader</li>
